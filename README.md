@@ -74,6 +74,3 @@ xattr -dr com.apple.quarantine "$HOME/Applications/Sam.app"
 
 `Sam_Distribute/releases/SHA256SUMS`
 
----
-
-如果你愿意补一段「Sam 具体能做什么」的功能清单（3～5 条就行），我可以把 README 再升级一版：加上功能介绍、截图占位、以及更像开源主页的结构。
