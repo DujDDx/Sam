@@ -7,6 +7,19 @@ macOS 菜单栏效率工具：装好就能用，一条命令安装。
 - 仓库：<https://github.com/DujDDx/Sam>
 - 反馈：<https://github.com/DujDDx/Sam/issues>
 
+## 项目维护说明
+
+本项目当前由 **ZeroClaw** 协助管理与维护。
+
+ZeroClaw 会参与以下日常工程工作：
+
+- README 与文档更新
+- 安装脚本维护
+- 发布文件与校验信息整理
+- 仓库日常维护
+
+如仓库中出现由 ZeroClaw 准备、整理或提交的更新，均属于正常维护流程。
+
 ## 1 分钟快速开始
 
 ### 一行命令安装（推荐）
